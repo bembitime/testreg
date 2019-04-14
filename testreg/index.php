@@ -21,7 +21,7 @@
         <label for="exampleInputPassword1">Password</label>
         <input type="password" class="form-control" name="password" placeholder="Password">
     </div>
-    <button type="submit" class="btn btn-primary">Регистрация</button>
+    <button type="submit" class="btn btn-primary btn-reg">Регистрация</button>
 </form>
 </body>
 
@@ -37,7 +37,6 @@
 <?php
 
 
-
-
+echo "ПРОВЕРКА НА СУЩЕСТВОВАНИЕ... ПУСТЫЕ ПОЛЯ не значения... СЕССИИ... ЛОГАУТ... НОРМАЛЬНЫЕ СТРАНИЦЫ(в нужные места рег и автор)"
 
 ?>
